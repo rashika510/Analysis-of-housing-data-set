@@ -12,7 +12,7 @@ dependent variable, regression algorithms under supervised learning are used.
 
 # Technologies and Concepts
 
-Technologies: Python (Numpy, Pandas, Seaborn
+Technologies: Python (Numpy, Pandas, Seaborn, Matplotlib, Scipy)
 
 Concepts: Pre-processing, Cleaning, Feature Engineering, Multiple Linear Regression, Random Forest, XG Boost, Stacked Regressor
 
