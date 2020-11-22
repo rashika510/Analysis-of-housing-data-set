@@ -20,3 +20,5 @@ Concepts: Pre-processing, Cleaning, Feature Engineering, Multiple Linear Regress
 The project provides the most optimal solution with the Stacked Regressor, an ensemble model which in this case averages Multiple Linear regression, Random
 Forest Regression and XGBoost regression algorithms ultimately giving a Root Mean Square value of 0.1047 and a high accuracy of 93.52.
 
+Research Paper : https://www.ijedr.org/papers/IJEDR1803097.pdf
+
